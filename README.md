@@ -4,7 +4,7 @@ An end-to-end Machine Learning project that predicts an individual's creditworth
 
 ## Features
 
-* Data preprocessing and cleaning
+* Data Preprocessing and Cleaning
 * Label encoding for categorical variables
 * Train-test split for model validation
 * Implementation of Logistic Regression, Decision Tree, and Random Forest classifiers
